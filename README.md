@@ -1,6 +1,5 @@
 # siteproxy
-反向代理, 免翻墙访问youtube/twitter/google, 支持telegram web登录.
-pure web page proxy to google/youtube, zero configuration from client side. Reverse proxy to all internet. 一键部署，翻墙利器。
+
 
 ```
                                                  +----> google/youtube
